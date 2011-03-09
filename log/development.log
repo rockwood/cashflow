@@ -1,0 +1,30 @@
+
+
+Started GET "/" for 127.0.0.1 at Tue Mar 08 23:34:09 -0500 2011
+
+ActionController::RoutingError (No route matches "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Mar 08 23:34:34 -0500 2011
+
+ActionController::RoutingError (No route matches "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Mar 08 23:35:09 -0500 2011
+
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Mar 08 23:40:22 -0500 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 60ms (Views: 59.0ms | ActiveRecord: 0.0ms)
